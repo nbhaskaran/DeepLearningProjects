@@ -1,2 +1,2 @@
 # DeepLearningProjects
-Deep Learning Coursework Projects
+Deep Learning Udacity Coursework Projects 
